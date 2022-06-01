@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1583813969 source:c:\lanuage_format_processing\format.cpp
+	"format.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gettoken.h"
+
+1584601302 c:\lanuage_format_processing\format.h
+
+1584601908 c:\lanuage_format_processing\gettoken.h
+
+1584601889 source:c:\lanuage_format_processing\gettoken.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gettoken.h"
+
+1583673403 source:c:\lanuage_format_processing\main.cpp
+	<stdio.h>
+	"gettoken.h"
+	<stdlib.h>
+	"word_analyse.h"
+	"syntax_analyse.h"
+	"format.h"
+
+1583642685 c:\lanuage_format_processing\word_analyse.h
+
+1583811727 c:\lanuage_format_processing\syntax_analyse.h
+
+1583813858 source:c:\lanuage_format_processing\syntax_analyse.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<stack>
+	"syntax_analyse.h"
+	"gettoken.h"
+
+1584601938 source:c:\lanuage_format_processing\word_analyse.cpp
+	<stdio.h>
+	<stdlib.h>
+	"word_analyse.h"
+	"gettoken.h"
+
+1583813969 source:c:\users\mzc\desktop\程序项目本身\lanuage_format_processing\format.cpp
+	"format.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gettoken.h"
+
+1584601302 c:\users\mzc\desktop\程序项目本身\lanuage_format_processing\format.h
+
+1584601908 c:\users\mzc\desktop\程序项目本身\lanuage_format_processing\gettoken.h
+
+1584601889 source:c:\users\mzc\desktop\程序项目本身\lanuage_format_processing\gettoken.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gettoken.h"
+
+1583673403 source:c:\users\mzc\desktop\程序项目本身\lanuage_format_processing\main.cpp
+	<stdio.h>
+	"gettoken.h"
+	<stdlib.h>
+	"word_analyse.h"
+	"syntax_analyse.h"
+	"format.h"
+
+1583642685 c:\users\mzc\desktop\程序项目本身\lanuage_format_processing\word_analyse.h
+
+1583811727 c:\users\mzc\desktop\程序项目本身\lanuage_format_processing\syntax_analyse.h
+
+1583813858 source:c:\users\mzc\desktop\程序项目本身\lanuage_format_processing\syntax_analyse.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<stack>
+	"syntax_analyse.h"
+	"gettoken.h"
+
+1584601938 source:c:\users\mzc\desktop\程序项目本身\lanuage_format_processing\word_analyse.cpp
+	<stdio.h>
+	<stdlib.h>
+	"word_analyse.h"
+	"gettoken.h"
+
